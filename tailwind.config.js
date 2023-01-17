@@ -11,6 +11,9 @@ module.exports = {
       },
       fontFamily: {
         mrsShe: "Mrs Sheppards",
+        robotoC: 'Roboto Condensed, sans-serif',
+        secOne: 'Secular One, sans-serif',
+        shrink: 'Shrikhand, cursive'
       }
     },
   },
